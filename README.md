@@ -86,7 +86,6 @@ Get a file's data:
 Hello Webstack!
 ```
 
-# Authors
+# Author
 
-- <a href="https://github.com/duvanjm"> Duvan Jaramillo </a>
-- <a href="https://github.com/Nicolanz"> Nicolas Zárate </a>
+- <a href="https://github.com/jcamilovillah"> Juan Camilo Villa </a>
